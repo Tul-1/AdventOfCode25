@@ -1,1 +1,1 @@
-solutions for days 1-10 of advent of code 2025
+solutions for days 1-12 of advent of code 2025
